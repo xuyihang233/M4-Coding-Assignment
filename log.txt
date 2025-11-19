@@ -1,4 +1,6 @@
-c9fad8a (HEAD -> main, origin/main, origin/HEAD) Task 2.1.4 Completed
+d381172 (HEAD -> main, origin/main, origin/HEAD) Task 2.2 Completed
+3c49fc4 Task 2.1 Completed
+c9fad8a Task 2.1.4 Completed
 87a7a1e Task 1.2 Completed
 1bf5242 Task 1.1 Completed
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
